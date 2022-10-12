@@ -15,7 +15,7 @@ The traffic lights have the following behavior:
 In the debug mode states remain for 5s and in production mode, they remain for 20s.
 
 # PEER REVIEW 
-By Daanish 
+By Daanish (11.10.2022 at 11:45pm)
 - Use timing API functions (reset_timer, get_timer, reset_poll_timer and poll_timer)
 - Use macros in systick.h and pwm_init.h for MOD register value and Systick Load register
 - Comment variables declared in state_machine.c
