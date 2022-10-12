@@ -19,5 +19,6 @@ By Daanish (11.10.2022 at 11:45pm)
 - Use timing API functions (reset_timer, get_timer, reset_poll_timer and poll_timer)
 - Use macros in systick.h and pwm_init.h for MOD register value and Systick Load register
 - Comment variables declared in state_machine.c
-//The submitted-code-to-review is listed under tags
+
+The submitted-code-to-review is listed under tags
 
